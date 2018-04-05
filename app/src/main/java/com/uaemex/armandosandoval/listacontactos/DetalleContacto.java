@@ -61,6 +61,12 @@ public class DetalleContacto extends AppCompatActivity {
         super.onBackPressed();
         Intent intent = new Intent(DetalleContacto.this,MainActivity.class);
         startActivity(intent);
+        /*
+        el primer cambio en el repositorio es este
+
+
+         */
         finish();
+
     }
 }
