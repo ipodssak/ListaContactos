@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListaContactos</string>
+    <string name="nombre">Armando Sandoval</string>
+    <string name="telefono">7223121223</string>
+    <string name="correo">correo@correo</string>
+    <string name="nombre_param">Nombre_param</string>
+    <string name="telefono_param">Telefono_param</string>
+    <string name="correo_param">Correo_param</string>
+</resources>
